@@ -172,4 +172,45 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main()  
+
+
+ # -------------------- OUTPUT --------------------   
+
+ Enter choice: 1
+Enter file path: c:\Users\sarath kumar M\Documents\demo.txt    
+Stored! File ID: d13b45ad-48b2-484d-9250-21ffbd3a4e32
+
+--- Blockchain Resilient Storage ---
+1. Store File
+2. Retrieve File
+3. Verify Blockchain
+4. Exit
+Enter choice: 2
+Enter file ID: d13b45ad-48b2-484d-9250-21ffbd3a4e32
+Enter output file path: c:\Users\sarath kumar M\Documents\demo.txt
+File retrieved successfully!
+
+--- Blockchain Resilient Storage ---
+1. Store File
+2. Retrieve File
+3. Verify Blockchain
+4. Exit
+Enter choice: 3
+Blockchain is VALID
+
+--- Blockchain Resilient Storage ---
+1. Store File
+2. Retrieve File
+3. Verify Blockchain
+4. Exit
+Enter choice: 4
+PS C:\Users\sarath kumar M\Desktop\blockchain\program> 
+
+<img width="1482" height="617" alt="image" src="https://github.com/user-attachments/assets/250dac40-c34b-4400-847a-ed09befb6987" />
+
+
+
+
+
+    
